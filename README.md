@@ -18,16 +18,16 @@ To get started with either the initial setup or the final version, follow these 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/nikandr-surkov/Notcoin-Telegram-Mini-App-Clone.git
-    cd Notcoin-Telegram-Mini-App-Clone
+    git clone https://github.com/bruksbondd/Notcoin-Telegram-Bot-Clone
+    cd Notcoin-Telegram-Bot-Clone
     ```
 
 ### Initial Setup
 
-2. **Switch to the `initial-setup` Branch**:
+2. **Switch to the `main` Branch**:
 
     ```bash
-    git checkout initial-setup
+    git checkout main
     ```
 
 3. **Install Dependencies**:
@@ -45,32 +45,3 @@ To get started with either the initial setup or the final version, follow these 
 5. **Open Your Browser**:
 
     Navigate to localhost to see the initial setup.
-
-### Final Version
-
-2. **Switch to the `final-version` Branch**:
-
-    ```bash
-    git checkout final-version
-    ```
-
-3. **Install Dependencies**:
-
-    ```bash
-    npm install
-    ```
-
-4. **Run the Development Server**:
-
-    ```bash
-    npm run dev
-    ```
-
-5. **Open Your Browser**:
-
-    Navigate to localhost to see the final version of the application.
-
-## Contact
-
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
-
